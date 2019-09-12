@@ -1,0 +1,10 @@
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.csprojAssemblyReference.cache
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.Form1_Principal.resources
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.Properties.Resources.resources
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.csproj.GenerateResource.cache
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.csproj.CoreCompileInputs.cache
+C:\Users\ilies\Desktop\PicRS232\bin\Debug\PicRS232.exe.config
+C:\Users\ilies\Desktop\PicRS232\bin\Debug\PicRS232.exe
+C:\Users\ilies\Desktop\PicRS232\bin\Debug\PicRS232.pdb
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.exe
+C:\Users\ilies\Desktop\PicRS232\obj\Debug\PicRS232.pdb
